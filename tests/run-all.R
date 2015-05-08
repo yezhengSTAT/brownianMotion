@@ -1,3 +1,2 @@
 library(testthat)
-library(brownianMotion)
-test_package("brownianMotion")
+test_check("brownianMotion")
